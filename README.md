@@ -24,6 +24,12 @@ This project demonstrates core game development concepts such as real-time input
 - **Platform:** Windows (tested)
 
 ---
+##
+👨‍💻 Creators
+Junaid — https://github.com/junaid3234
+---
+Vaishnavi Chavan — https://github.com/vkchavan
+---
 
 ## 🚀 Clone and Run
 
@@ -84,10 +90,7 @@ ObstacleDodgeRunner/
 ├── assets/              # Game assets (images, sounds)
 ├── README.md            # Project documentation
 └── requirements.txt     # Required Python libraries
-👨‍💻 Creators
-Junaid — https://github.com/junaid3234
 
-Vaishnavi Chavan — https://github.com/vkchavan
 
 📜 License
 This project is developed for educational purposes.
