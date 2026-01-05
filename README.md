@@ -6,12 +6,13 @@ The objective of the game is to control the player character and dodge incoming 
 ---
 
 ###
-👨‍💻 Creators
-Junaid
-GitHub: https://github.com/junaid3234
+---
+#** 👨‍💻 Creators**
+**Junaid**
+GitHub: _https://github.com/junaid3234_
 
-Vaishnavi Chavan
-GitHub: https://github.com/vkchavan
+**Vaishnavi Chavan**
+GitHub: _https://github.com/vkchavan_
 
 ---
 
