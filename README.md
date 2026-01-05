@@ -28,7 +28,7 @@ This project demonstrates core game development concepts such as real-time input
 👨‍💻 Creators
 ---
 
-Junaid — https://github.com/junaid3234
+Mohammed Junaid Ahmed — https://github.com/junaid3234
 
 Vaishnavi Chavan — https://github.com/vkchavan
 
