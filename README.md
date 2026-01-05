@@ -5,7 +5,8 @@ The objective of the game is to control the player character and dodge incoming 
 
 ---
 
-#👨‍💻 Creators
+###
+👨‍💻 Creators
 Junaid
 GitHub: https://github.com/junaid3234
 
@@ -30,13 +31,9 @@ py -3.11 -m pip install pygame
 Python 3.14 is not supported by Pygame.
 
 4. Run the Game
-bash
-Copy code
+
 python main.py
 or
-
-bash
-Copy code
 py -3.11 main.py
 🎮 The game window will launch successfully.
 
