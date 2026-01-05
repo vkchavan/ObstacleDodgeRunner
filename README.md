@@ -24,8 +24,7 @@ This project demonstrates core game development concepts such as real-time input
 - **Platform:** Windows (tested)
 
 ---
-👨‍💻 Creators
-##
+## 👨‍💻 Creators
 
 Mohammed Junaid Ahmed — https://github.com/junaid3234
 
